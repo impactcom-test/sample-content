@@ -149,71 +149,7 @@ e=(!e||e.length===0?"$default_instance":e).toLowerCase()
 <script src="https://www.nerdwallet.com/cdn/apps/prod/review-client/build/js/chunks/chunks/article.fa6668a8560873aef7f2.js" defer></script>
 <script src="https://www.nerdwallet.com/cdn/apps/prod/review-client/build/js/app.3d9746e70a6da70b425d.js" defer></script>
 <noscript><img src="/lib/opt.gif" /></noscript>
-<!-- dataLayer for Google Tag Manager -->
-<!-- Docs: https://developers.google.com/tag-manager/devguide -->
-<script>
-  // GTM uses a global variable `dataLayer` to manage variables and events.
 
-  // To expose a variable to GTM for use in a tag, do this:
-  //    dataLayer.push({ myVarName: 'myVarValue' });
-  //
-  // When exposing a variable:
-  // * Explicitly call it out & expose it in isolation (ie not inside an object).
-  // * There should be **no js** required in GTM to access / extract variables.
-  // * Pick up new var by creating an associated DataLayer Variable in the GTM admin panel.
 
-  // To dispatch an event to GTM, push the event name and any pertinent values:
-  //    dataLayer.push({
-  //      event: 'product_outbound_click',
-  //      productName: 'chase_cool_card',
-  //    });
-  //
-  // About events:
-  // * Tags in GTM can be set up to fire when a certain event is pushed into the dataLayer.
-  // * Set up new event by creating an associated Trigger in the GTM admin panel.
 
-  // More on the dataLayer
-  // * `dataLayer` is enhanced by GTM and should be declared before GTM is instantiated, not after.
-  // * We always use `push` to add values. This avoids accidentally replacing a previously defined dataLayer.
-
-  dataLayer = window.dataLayer || [];
-  dataLayer.push({
-    // taxonomy values are templated because we can get them server side
-    gtmPageVertical: 'Credit Cards',
-    gtmQuantcastLabel: 'Vertical.Credit Cards',
-    gtmPageTopic: 'Cash Back Credit Cards',
-    gtmPageType: 'Decide',
-    gtmContentType: 'review',
-    gtmContentClusters: '',
-    isNWMobileApp: 'false',
-    isLoggedIn: 'false',
-
-    // Below values have to wait for nwa to load, and are pushed separately:
-    // gtmCookieId - for Sizmek & Facebook
-    // gtmPageViewId - for Sizmek
-  });
-</script>
-<!-- End dataLayer for Google Tag Manager -->
-
-<script>!function(e){var t={};function r(n){if(t[n])return t[n].exports;var o=t[n]={i:n,l:!1,exports:{}};return e[n].call(o.exports,o,o.exports,r),o.l=!0,o.exports}r.m=e,r.c=t,r.d=function(e,t,n){r.o(e,t)||Object.defineProperty(e,t,{enumerable:!0,get:n})},r.r=function(e){"undefined"!=typeof Symbol&&Symbol.toStringTag&&Object.defineProperty(e,Symbol.toStringTag,{value:"Module"}),Object.defineProperty(e,"__esModule",{value:!0})},r.t=function(e,t){if(1&t&&(e=r(e)),8&t)return e;if(4&t&&"object"==typeof e&&e&&e.__esModule)return e;var n=Object.create(null);if(r.r(n),Object.defineProperty(n,"default",{enumerable:!0,value:e}),2&t&&"string"!=typeof e)for(var o in e)r.d(n,o,function(t){return e[t]}.bind(null,o));return n},r.n=function(e){var t=e&&e.__esModule?function(){return e.default}:function(){return e};return r.d(t,"a",t),t},r.o=function(e,t){return Object.prototype.hasOwnProperty.call(e,t)},r.p="",r(r.s=3)}({3:function(e,t){!function e(){var t=window.nwa;return t&&t.getUserProp("cookieId")&&t.getGlobalProp("pageViewId")?(window.dataLayer=window.dataLayer||[],window.dataLayer.push({gtmPageViewId:t.getGlobalProp("pageViewId"),gtmCookieId:t.getUserProp("cookieId"),event:"nwa_values_ready"})):setTimeout(e,300)}()}});</script>
-<script>
-  (function () {
-    window.__KOUNT_SESSION_ID__ = 'a74e3b17745a4111916919aaf7f7c405';
-    
-    document.addEventListener('DOMContentLoaded', function() {
-      var script = document.createElement('script');
-      script.src = 'https://ssl.kaptcha.com/collect/sdk?m=171456&s=a74e3b17745a4111916919aaf7f7c405';
-      script.defer = true;
-      script.async = true;
-      script.onload = function () {
-        setTimeout(function () {
-          if (typeof ka !== 'undefined') {
-            var client = new ka.ClientSDK();
-            client.collectData();
-          }
-        }, 0);
-      };
-      document.body.appendChild(script);
-    });    
-  })();
-</script></body></html>
+</body></html>
