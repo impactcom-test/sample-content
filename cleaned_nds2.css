@@ -1,4 +1,4 @@
-/*3000*/
+/*3500*/
 /*.ss-icon,.ss-icon.ss-social-circle,[class*=" ss-"].right:after,[class*=" ss-"].ss-social-circle.right:after,[class*=" ss-"].ss-social-circle:before,[class*=" ss-"]:before,[class^=ss-].right:after,[class^=ss-].ss-social-circle.right:after,[class^=ss-].ss-social-circle:before,[class^=ss-]:before{font-family:"Arial", sans-serif;
 font-style:normal;
 font-weight:400;
@@ -2996,8 +2996,7 @@ display:flex}
 .Vvjh6:hover .u1J5s{cursor:pointer;
 color:#008255}
 .Vvjh6:hover .u1J5s:after{content:"";
-position:absolute;
-                          */
+position:absolute;                         
 width:15px;
 height:15px;
 background-color:#fff;
@@ -3492,6 +3491,7 @@ flex-direction:column;
 padding:0;
 max-height:100%}
 }
+ */
 ._2WQNc ._3h-O5{display:-webkit-box;
 display:-ms-flexbox;
 display:flex;
