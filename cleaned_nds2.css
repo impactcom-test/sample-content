@@ -1,4 +1,4 @@
-.ss-icon,.ss-icon.ss-social-circle,[class*=" ss-"].right:after,[class*=" ss-"].ss-social-circle.right:after,[class*=" ss-"].ss-social-circle:before,[class*=" ss-"]:before,[class^=ss-].right:after,[class^=ss-].ss-social-circle.right:after,[class^=ss-].ss-social-circle:before,[class^=ss-]:before{font-family:"Arial", sans-serif;
+/*.ss-icon,.ss-icon.ss-social-circle,[class*=" ss-"].right:after,[class*=" ss-"].ss-social-circle.right:after,[class*=" ss-"].ss-social-circle:before,[class*=" ss-"]:before,[class^=ss-].right:after,[class^=ss-].ss-social-circle.right:after,[class^=ss-].ss-social-circle:before,[class^=ss-]:before{font-family:"Arial", sans-serif;
 font-style:normal;
 font-weight:400;
 text-decoration:none;
@@ -4997,6 +4997,7 @@ grid-template-columns:repeat(12,1fr);
 -moz-column-gap:1.5rem;
 column-gap:1.5rem}
 }
+*/
 ._2pZuj{grid-area:crumb;
 display:-webkit-box;
 display:-ms-flexbox;
