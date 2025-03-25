@@ -1,0 +1,95 @@
+/* Minimal Reset and Base Styles */
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+  color: #333;
+  line-height: 1.5;
+}
+
+/* Container for centering content */
+.container {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 1rem;
+}
+
+/* Primary Header – use on main page headings */
+._3S-ky {
+  font-family: Arial, sans-serif;
+  font-size: 2rem;
+  line-height: 1.1875;
+  font-weight: 700;
+  margin: 1rem 0;
+}
+@media (min-width: 27.5rem) {
+  ._3S-ky {
+    font-size: calc(1.30619rem + 2.52294vw);
+  }
+}
+@media (min-width: 82rem) {
+  ._3S-ky {
+    font-size: 3.375rem;
+    line-height: 1.1111;
+  }
+}
+
+/* Subheader or Section Title */
+._28gYX {
+  font-family: Arial, sans-serif;
+  font-size: 1.5rem;
+  line-height: 1.25;
+  font-weight: 700;
+  margin: 0.75rem 0;
+}
+@media (min-width: 27.5rem) {
+  ._28gYX {
+    font-size: calc(1.12156rem + 1.37615vw);
+  }
+}
+@media (min-width: 82rem) {
+  ._28gYX {
+    font-size: 2.25rem;
+    line-height: 1.1667;
+  }
+}
+
+/* Body Text – for paragraphs and similar copy */
+._1Px3I {
+  font-family: Arial, sans-serif;
+  font-size: 0.8125rem;
+  line-height: 1.5385;
+  font-weight: 400;
+  margin: 0.5rem 0;
+}
+
+/* Alternative body text using a serif (if needed) */
+._3VIvd {
+  font-family: Georgia, serif;
+  font-size: 1.25rem;
+  font-weight: 400;
+  margin: 0.5rem 0;
+}
+@media (min-width: 27.5rem) {
+  ._3VIvd {
+    font-size: calc(1.12385rem + 0.45872vw);
+  }
+}
+@media (min-width: 82rem) {
+  ._3VIvd {
+    font-size: 1.5rem;
+    line-height: 1.5385;
+  }
+}
+
+/* Link Styles */
+a {
+  color: #005fb9;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
