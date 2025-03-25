@@ -1,4 +1,4 @@
-/*4000*/
+/*3000*/
 /*.ss-icon,.ss-icon.ss-social-circle,[class*=" ss-"].right:after,[class*=" ss-"].ss-social-circle.right:after,[class*=" ss-"].ss-social-circle:before,[class*=" ss-"]:before,[class^=ss-].right:after,[class^=ss-].ss-social-circle.right:after,[class^=ss-].ss-social-circle:before,[class^=ss-]:before{font-family:"Arial", sans-serif;
 font-style:normal;
 font-weight:400;
@@ -2997,6 +2997,7 @@ display:flex}
 color:#008255}
 .Vvjh6:hover .u1J5s:after{content:"";
 position:absolute;
+                          */
 width:15px;
 height:15px;
 background-color:#fff;
@@ -3998,7 +3999,6 @@ height:auto}
 }
 @media (max-width:400px){.ScQBQ{margin:auto}
 }
-*/
 ._1u6D0{display:-webkit-box;
 display:-ms-flexbox;
 display:flex;
