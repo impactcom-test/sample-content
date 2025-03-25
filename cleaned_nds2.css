@@ -2497,6 +2497,7 @@ top:-8px;
 margin-left:-8px;
 border-top-width:0}
 ._2pj9i.bottom>.arrow:after{top:1px;
+*/
 margin-left:-10px;
 border-top-width:0;
 border-bottom-color:#fff}
@@ -4997,7 +4998,6 @@ grid-template-columns:repeat(12,1fr);
 -moz-column-gap:1.5rem;
 column-gap:1.5rem}
 }
-*/
 ._2pZuj{grid-area:crumb;
 display:-webkit-box;
 display:-ms-flexbox;
