@@ -1,4 +1,4 @@
-/*3600*/
+/*3700*/
 /*.ss-icon,.ss-icon.ss-social-circle,[class*=" ss-"].right:after,[class*=" ss-"].ss-social-circle.right:after,[class*=" ss-"].ss-social-circle:before,[class*=" ss-"]:before,[class^=ss-].right:after,[class^=ss-].ss-social-circle.right:after,[class^=ss-].ss-social-circle:before,[class^=ss-]:before{font-family:"Arial", sans-serif;
 font-style:normal;
 font-weight:400;
@@ -3597,7 +3597,7 @@ transition-property:-webkit-transform;
 transition-property:transform;
 transition-property:transform,-webkit-transform;
 -webkit-transition-duration:.15s;
-        */
+        
 transition-duration:.15s}
 ._3O6kp ._2jfr0{-webkit-transform:translate(-50%,-50%) rotateX(180deg)!important;
 transform:translate(-50%,-50%) rotateX(180deg)!important}
@@ -3697,6 +3697,7 @@ background:-webkit-gradient(linear,left top,left bottom,from(rgba(0,0,0,.05)),to
 background:linear-gradient(rgba(0,0,0,.05),transparent);
 z-index:1}
 }
+*/
 ._1kk2f{cursor:pointer}
 ._1kk2f:hover{color:#008255}
 ._28XxM{width:18px;
