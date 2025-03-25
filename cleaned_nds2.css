@@ -1,4 +1,4 @@
-/*3500*/
+/*3750*/
 /*.ss-icon,.ss-icon.ss-social-circle,[class*=" ss-"].right:after,[class*=" ss-"].ss-social-circle.right:after,[class*=" ss-"].ss-social-circle:before,[class*=" ss-"]:before,[class^=ss-].right:after,[class^=ss-].ss-social-circle.right:after,[class^=ss-].ss-social-circle:before,[class^=ss-]:before{font-family:"Arial", sans-serif;
 font-style:normal;
 font-weight:400;
@@ -3491,7 +3491,6 @@ flex-direction:column;
 padding:0;
 max-height:100%}
 }
- */
 ._2WQNc ._3h-O5{display:-webkit-box;
 display:-ms-flexbox;
 display:flex;
@@ -3754,6 +3753,7 @@ padding-bottom:3.5px}
 @media (max-width:767px){.opnCW{cursor:pointer}
 }
 .opnCW.anvkK,input:checked+.opnCW{border-left-color:#40ad87;
+                                  */
 background-color:#fff;
 color:#008255}
 .opnCW.anvkK>span,input:checked+.opnCW>span{font-weight:700}
