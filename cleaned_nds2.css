@@ -1,4 +1,4 @@
-/*3693*/
+/*3693 and bottom*/
 /*.ss-icon,.ss-icon.ss-social-circle,[class*=" ss-"].right:after,[class*=" ss-"].ss-social-circle.right:after,[class*=" ss-"].ss-social-circle:before,[class*=" ss-"]:before,[class^=ss-].right:after,[class^=ss-].ss-social-circle.right:after,[class^=ss-].ss-social-circle:before,[class^=ss-]:before{font-family:"Arial", sans-serif;
 font-style:normal;
 font-weight:400;
@@ -5550,7 +5550,7 @@ row-gap:2.75rem}
 grid-template-rows:auto auto auto auto auto auto;
 grid-template-areas:"logo logo logo" "appLinks appLinks appLinks" "about help legal" "disclaimer disclaimer disclaimer" "countryLinks countryLinks countryLinks" "copyrightSocial copyrightSocial copyrightSocial";
 row-gap:2.75rem}
-}
+}/*
 ._36Qam{grid-area:copyrightSocial}
 ._36Qam ._25-2-{margin-bottom:1rem;
 font-size:12px;
@@ -5577,4 +5577,4 @@ flex-direction:column-reverse}
 ._36Qam .QZSsp{-webkit-box-pack:center;
 -ms-flex-pack:center;
 justify-content:center}
-}
+}*/
